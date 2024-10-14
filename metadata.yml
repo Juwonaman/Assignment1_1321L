@@ -1,0 +1,12 @@
+---
+:id: 131108547
+:submitters:
+- :name: Juwon Atunnise
+  :email: oatunnis@students.kennesaw.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2022-08-29 02:46:59.932655000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2022-08-28 19:46:59.932655000 Z
+:status: processed
+:score: 92.5
